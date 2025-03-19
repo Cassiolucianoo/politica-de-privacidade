@@ -55,7 +55,7 @@ Aguarde o lançamento oficial para ter acesso a todas as funcionalidades do apli
 
 ## 📄 Termos de Uso
 
-O aplicativo Lotação SP é disponibilizado sob nossos [Termos de Serviço](terms.html), que definem as condições de uso, políticas de privacidade e limitações de responsabilidade.
+O aplicativo Lotação SP é disponibilizado sob nossos [Termos de Serviço](index.html), que definem as condições de uso, políticas de privacidade e limitações de responsabilidade.
 
 ## 🔄 Dados
 
